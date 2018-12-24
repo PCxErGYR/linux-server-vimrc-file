@@ -249,6 +249,7 @@ call plug#begin("~/.vim/plugged")
     Plug 'yegappan/mru'
     Plug 'ervandew/supertab'
     Plug 'vim-scripts/Wombat'
+    Plug 'chr4/nginx.vim'
 
 call plug#end()
 
